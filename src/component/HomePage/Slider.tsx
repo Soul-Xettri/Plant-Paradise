@@ -69,6 +69,7 @@ const data = [
     title: 'Plant Paradise Plants1',
     category: 'House Plant, Office Plant',
   },
+  
   {
     image:
     "../src/assets/images/slider_h5_02.jpg",

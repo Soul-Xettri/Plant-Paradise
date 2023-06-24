@@ -103,7 +103,7 @@ export function TopHeader() {
           </Group>
 
           <Group className={classes.hiddenMobile}>
-          <Link to='/auth'>
+       <Link to ='/auth'>
             <Button variant="default">Log in</Button>
             </Link>
             <Link to='/auth'>
