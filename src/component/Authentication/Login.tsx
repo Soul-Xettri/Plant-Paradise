@@ -13,6 +13,7 @@ import {
   Anchor,
   Stack,
 } from '@mantine/core';
+import logo from '../../assets/Images/logo.png'
 
 export function Login(props: PaperProps) {
   const [type, toggle] = useToggle(['login', 'register']);
@@ -33,7 +34,7 @@ export function Login(props: PaperProps) {
   return (
     <Paper radius="md" p="xl" withBorder {...props} style={{display:"flex",alignContent:"center"}}>
       <Text size="lg" weight={500}>
-        Welcome to Mantine, {type} with
+        Welcome to <span style={{padding:"10px"}}><img src={logo}/></span>, {type} with
       </Text>
 
 
@@ -55,7 +56,7 @@ export function Login(props: PaperProps) {
           <TextInput
             required
             label="Email"
-            placeholder="hello@mantine.dev"
+            placeholder="name@gmail.com"
             value={form.values.email}
             onChange={(event) => form.setFieldValue('email', event.currentTarget.value)}
             error={form.errors.email && 'Invalid email'}
