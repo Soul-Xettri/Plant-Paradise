@@ -2,33 +2,6 @@
 
 Welcome to **Plant Paradise**, a delightful front-end application crafted with React, Vite, CSS, and TypeScript. Immerse yourself in the beauty of nature as you explore this online marketplace for buying and selling plants.
 
-## Screenshots
-
-![Hero Section](src/assets/Images/heroSection.png)
-*Hero Section*
-
-![Hero Section Carousel](src/assets/Images/hero-carousel.png)
-*Hero Section Carousel*
-
-![About Section](src/assets/Images/2.png)
-*About Section*
-
-![Banner Section](src/assets/Images/3.png)
-*Banner Section*
-
-![Product Section 1](src/assets/Images/4.png)
-![Product Section 2](src/assets/Images/5.png)
-*Product Section*
-
-![Newsletter Section](src/assets/Images/6.png)
-*Newsletter Section*
-
-![Auth Page](src/assets/Images/auth.png)
-*Auth Page*
-
-![404 Error Page](src/assets/Images/404.png)
-*404 Error Page*
-
 ## Getting Started
 
 To run Plant Paradise locally, follow these simple steps:
@@ -84,3 +57,32 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 This project is licensed under the MIT License.
 
 Happy gardening! 🌿🌼
+
+
+## Screenshots
+
+![Hero Section](src/assets/Images/heroSection.png)
+*Hero Section*
+
+![Hero Section Carousel](src/assets/Images/hero-carousel.png)
+*Hero Section Carousel*
+
+![About Section](src/assets/Images/2.png)
+*About Section*
+
+![Banner Section](src/assets/Images/3.png)
+*Banner Section*
+
+![Product Section 1](src/assets/Images/4.png)
+![Product Section 2](src/assets/Images/5.png)
+*Product Section*
+
+![Newsletter Section](src/assets/Images/6.png)
+*Newsletter Section*
+
+![Auth Page](src/assets/Images/auth.png)
+*Auth Page*
+
+![404 Error Page](src/assets/Images/404.png)
+*404 Error Page*
+
