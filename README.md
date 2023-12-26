@@ -52,13 +52,6 @@ To run Plant Paradise locally, follow these simple steps:
 
 Check the `package.json` file for a complete list of dependencies and devDependencies.
 
-## License
-
-This project is licensed under the MIT License.
-
-Happy gardening! 🌿🌼
-
-
 ## Screenshots
 
 ![Hero Section](src/assets/Images/heroSection.png)
@@ -86,3 +79,8 @@ Happy gardening! 🌿🌼
 ![404 Error Page](src/assets/Images/404.png)
 *404 Error Page*
 
+## License
+
+This project is licensed under the MIT License.
+
+Happy gardening! 🌿🌼
