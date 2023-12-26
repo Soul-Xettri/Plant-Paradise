@@ -18,6 +18,7 @@
 - [React Router DOM](https://reactrouter.com/)
 - [Tiptap](https://tiptap.dev/)
 - [Tabler Icons](https://tablericons.com/)
+- CSS
 
 ## Dependencies
 
