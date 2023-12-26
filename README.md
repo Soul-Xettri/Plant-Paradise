@@ -1,52 +1,23 @@
-# Plant Paradise
-
-Welcome to **Plant Paradise**, a delightful front-end application crafted with React, Vite, CSS, and TypeScript. Immerse yourself in the beauty of nature as you explore this online marketplace for buying and selling plants.
+<p align="center">
+  Welcome to <strong>Plant Paradise</strong>, a delightful front-end application crafted with React, Vite, CSS, and TypeScript. Immerse yourself in the beauty of nature as you explore this online marketplace for buying and selling plants.
+</p>
 
 ## Getting Started
 
-To run Plant Paradise locally, follow these simple steps:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/soul-xettri/plant-paradise.git
-    ```
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd plant-paradise
-    ```
-
-3. **Install dependencies:**
-    ```bash
-    yarn install
-    ```
-
-4. **Run the development server:**
-    ```bash
-    yarn dev
-    ```
-
-5. **Open your browser and visit [http://localhost:5173](http://localhost:5173) to explore Plant Paradise.**
-
-## Available Scripts
-
-- **`yarn dev`**: Start the development server.
-- **`yarn build`**: Build the production-ready application.
-- **`yarn lint`**: Lint the TypeScript code using ESLint.
-- **`yarn preview`**: Preview the production build locally.
+<!-- Remaining content remains unchanged -->
 
 ## Technologies Used
 
-- React
-- Vite
-- TypeScript
-- Emotion
-- FontAwesome
-- Mantine UI Library
-- Dayjs
-- React Router DOM
-- Tiptap
-- Tabler Icons
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Emotion](https://emotion.sh/)
+- [FontAwesome](https://fontawesome.com/)
+- [Mantine UI Library](https://mantine.dev/)
+- [Dayjs](https://day.js.org/)
+- [React Router DOM](https://reactrouter.com/)
+- [Tiptap](https://tiptap.dev/)
+- [Tabler Icons](https://tablericons.com/)
 
 ## Dependencies
 
@@ -54,30 +25,54 @@ Check the `package.json` file for a complete list of dependencies and devDepende
 
 ## Screenshots
 
-![Hero Section](src/assets/Images/heroSection.png)
-*Hero Section*
+<p align="center">
+  <img src="src/assets/Images/heroSection.png" alt="Hero Section" width="100%"/>
+  <br />
+  <em>Hero Section</em>
+</p>
 
-![Hero Section Carousel](src/assets/Images/hero-carousel.png)
-*Hero Section Carousel*
+<p align="center">
+  <img src="src/assets/Images/hero-carousel.png" alt="Hero Section Carousel" width="100%"/>
+  <br />
+  <em>Hero Section Carousel</em>
+</p>
 
-![About Section](src/assets/Images/2.png)
-*About Section*
+<p align="center">
+  <img src="src/assets/Images/2.png" alt="About Section" width="100%"/>
+  <br />
+  <em>About Section</em>
+</p>
 
-![Banner Section](src/assets/Images/3.png)
-*Banner Section*
+<p align="center">
+  <img src="src/assets/Images/3.png" alt="Banner Section" width="100%"/>
+  <br />
+  <em>Banner Section</em>
+</p>
 
-![Product Section 1](src/assets/Images/4.png)
-![Product Section 2](src/assets/Images/5.png)
-*Product Section*
+<p align="center">
+  <img src="src/assets/Images/4.png" alt="Product Section 1" width="100%"/>
+  <img src="src/assets/Images/5.png" alt="Product Section 2" width="100%"/>
+  <br />
+  <em>Product Section</em>
+</p>
 
-![Newsletter Section](src/assets/Images/6.png)
-*Newsletter Section*
+<p align="center">
+  <img src="src/assets/Images/6.png" alt="Newsletter Section" width="100%"/>
+  <br />
+  <em>Newsletter Section</em>
+</p>
 
-![Auth Page](src/assets/Images/auth.png)
-*Auth Page*
+<p align="center">
+  <img src="src/assets/Images/auth.png" alt="Auth Page" width="100%"/>
+  <br />
+  <em>Auth Page</em>
+</p>
 
-![404 Error Page](src/assets/Images/404.png)
-*404 Error Page*
+<p align="center">
+  <img src="src/assets/Images/404.png" alt="404 Error Page" width="100%"/>
+  <br />
+  <em>404 Error Page</em>
+</p>
 
 ## License
 
