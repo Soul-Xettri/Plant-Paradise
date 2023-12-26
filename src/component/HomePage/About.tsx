@@ -212,11 +212,13 @@ export function About() {
                   experiences.
                 </Title>
 
-                <Text className={classes.description} >
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aliquam ipsam ullam incidunt itaque nemo omnis temporibus
-                  totam quibusdam repellat vero, recusandae excepturi
-                  dignissimos velit et alias amet, quia facilis perferendis.
+                <Text className={classes.description}>
+                  Discover a world where experiences matter more than
+                  possessions. Every click and interaction is crafted to elevate
+                  your journey. Our commitment goes beyond transactions,
+                  focusing on meaningful moments that resonate with your
+                  desires. Press 'Buy Now' to embark on an extraordinary
+                  adventure.
                 </Text>
                 <Button
                   className="plantButton"
