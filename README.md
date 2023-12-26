@@ -53,7 +53,7 @@ To run Plant Paradise locally, follow these simple steps:
     yarn dev
     ```
 
-5. **Open your browser and visit [http://localhost:3000](http://localhost:3000) to explore Plant Paradise.**
+5. **Open your browser and visit [http://localhost:5173](http://localhost:5173) to explore Plant Paradise.**
 
 ## Available Scripts
 
